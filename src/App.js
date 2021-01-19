@@ -1,4 +1,4 @@
-import { React, useState } from 'react';
+import React, { useState } from 'react';
 import { debounce } from 'lodash';
 import { RgbColorPicker } from 'react-colorful';
 import 'react-colorful/dist/index.css';
